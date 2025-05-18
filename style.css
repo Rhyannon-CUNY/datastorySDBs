@@ -65,7 +65,7 @@ div.centered {
 img {
     opacity: 0.5;
     border: 0;
-    height: 100vh;
+    height: 50vh;
     width: auto;
     object-fit: cover;
 }

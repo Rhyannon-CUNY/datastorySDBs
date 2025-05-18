@@ -32,6 +32,11 @@ Using extracted data from the centralized federal procurement database, FPDS.gov
    To filter for contract terminations that are more likely to be due to DOGE cost-saving iniatiatives rather than routine contract terminations or due to other reasons, `filtered_df` was created to inlcude only contracts where the modification reason on the FPDS system was "termination for convenience."  
 
 3. **Analysis**
+   The python groupby and query functions were used to extract data for self certified small disadvantaged businesses, which encompasses the different socio-economic categories of disadvantaged businesses according to the federal procurement system.
+
+   This dataset was then calculated for the number of contracts that was marked as "terminated for convenience" and the sum of the amount that would have been paid to the business otherwise, `Action Amount ($K)`.
+
+   This methodology and analysis was repeated for a dataset on subcontractors. 
 
 ---
 

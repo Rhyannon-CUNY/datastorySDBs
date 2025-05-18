@@ -8,7 +8,7 @@
 
 ## Project Summary 
 
-Using extracted data from the centralized federal procurement database, FPDS.gov, this analysis shows that small disadvantaged businesses have disproportionately had contracts terminated between January 20 and May 1 2025. This suggests DOGE's contract cancellations under the second Trump administration is impacted small disadvantaged businesses more compared to the proportion of contracts they have in federal procurement. 
+Using extracted data from the centralized federal procurement database, FPDS.gov, this analysis shows that small disadvantaged businesses have disproportionately had contracts terminated between January 20 and May 8 2025. This suggests DOGE's contract cancellations under the second Trump administration is impacted small disadvantaged businesses more compared to the proportion of contracts they have in federal procurement. 
 
 **Read the full story [hyperlink]** 
 
@@ -19,7 +19,7 @@ Using extracted data from the centralized federal procurement database, FPDS.gov
   Source: Deltek GovWinIQ  
   Access Method: [download link](https://iq.govwin.com/neo/marketAnalysis/view/Tracking-Terminated-Contracts/8224?researchTypeId=1)  
   Files located in `/data/` folder  
-  Approximate volume: 1 sheet, date range spanning January 20 - May 1, 2025  
+  Approximate volume: 1 sheet for prime contractor awards, 1 sheet for subcontractor awards, date range January 20 - May 1, 2025  
 
 ---
 

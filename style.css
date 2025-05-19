@@ -47,8 +47,9 @@
       }
 
 div.top {
+  width:100%;
   padding:0;
-  padding-bottom: 2em;
+  padding-bottom: 1em;
   margin: 0;
   position: relative;
   text-align:center;
@@ -66,8 +67,10 @@ img {
     opacity: 0.5;
     border: 0;
     height: 50vh;
-    width: auto;
+    width: 100%;
     object-fit: cover;
+    padding:0;
+    margin:0;
 }
 
 div.pullquote {
@@ -89,13 +92,6 @@ div.section {
     padding: 1em;
 }
 
-div.caption {
-    font-family: "Lato", serif;
-    font-weight: 400;
-    font-style: italic;
-    text-align: right;
-    font-size: 0.7rem;
-  }
 
 @media (min-width: 991px) {
     h1 {

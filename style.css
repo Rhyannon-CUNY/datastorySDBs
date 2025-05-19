@@ -61,6 +61,10 @@ div.centered {
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: rgba(245, 237, 237, 0.468);
+  /* border-style: solid; */
+  /* border-color: orange; */
+  /* border-width: thin; */
+  
 }
 
 img {
@@ -78,6 +82,7 @@ div.pullquote {
   border-color: white orange white orange;
   max-width: 800px;
   margin: 2em;
+  padding:0.5em;
   font-style: italic;
   font-weight: 700;
   color: orangered;

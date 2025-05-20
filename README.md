@@ -21,7 +21,7 @@ Using data extracted from the centralized federal procurement database, FPDS.gov
   Files located in `/data/` folder  
   Approximate volume: 1 sheet for prime contractor awards, 1 sheet for subcontractor awards, date range January 20 - May 1, 2025  
   Source: SBA scorecard  
-  Access Method: [download link](https://www.sba.gov/federal-contracting/contracting-data/small-business-procurement-scorecard/scorecard-details) 
+  Access Method: [download link](https://www.sba.gov/federal-contracting/contracting-data/small-business-procurement-scorecard/scorecard-details)   
   Files located in `/data/` folder  
 
 ---

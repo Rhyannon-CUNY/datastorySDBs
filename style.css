@@ -90,6 +90,8 @@ div.pullquote {
 }
 
 div.section {
+  /* margin:20px; */
+  padding:20px;
     font-style: bold; 
     font-weight: 700;
     color: orangered;

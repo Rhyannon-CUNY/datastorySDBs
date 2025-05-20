@@ -44,5 +44,5 @@ Using extracted data from the centralized federal procurement database, FPDS.gov
 
 1. Clone this repository:
 
-   gh repo clone Rhyannon-CUNY/datastorySDBs
+   [Rhyannon-CUNY/datastorySDBs](https://github.com/Rhyannon-CUNY/datastorySDBs.git)
 

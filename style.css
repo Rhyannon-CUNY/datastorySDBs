@@ -52,8 +52,7 @@ div.top {
   padding-bottom: 1em;
   margin: 0;
   position: relative;
-  text-align:center;
-  
+  text-align:center;  
 }
 div.centered {
   position: absolute;
@@ -61,10 +60,10 @@ div.centered {
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: rgba(245, 237, 237, 0.468);
-  /* border-style: solid; */
-  /* border-color: orange; */
-  /* border-width: thin; */
-  
+  border-style: solid;
+  border-color: orange;
+  border-width: thin;
+
 }
 
 img {
@@ -94,14 +93,14 @@ div.section {
     font-style: bold; 
     font-weight: 700;
     color: orangered;
-    padding: 1em;
+
 }
 
 
 @media (min-width: 991px) {
     h1 {
-      font-size: 3.5em;
-      line-height: 1.2;
+      font-size: 2.5em;
+      line-height: 1em;
     }
 
     h2 {

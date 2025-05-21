@@ -37,7 +37,7 @@ Using data extracted from the centralized federal procurement database, FPDS.gov
    Dataframes were created to only include contracts terminated due to EOIs.    
 
 3. **Analysis**
-   The python pandas functions `/groupby/` and `/value_counts/` were used to analyze the share of contracts by executive order with self certified small disadvantaged businesses.  
+   The python pandas functions `/groupby/` and `/value_counts/` were used to analyze the share of contracts by executive order with small disadvantaged businesses and self certified small disadvantaged businesses.  
    Self certified SDBs encompasses the different socio-economic categories of disadvantaged businesses according to the federal procurement system, and was chosen to compare the contract value data with the total federal procurement value data overall.  
    Action Amount was used to calculate the contract value terminated, as the dollar amount associated with the termination of the contract.  
 

@@ -10,7 +10,7 @@
 
 Using data extracted from the centralized federal procurement database, FPDS.gov, by GovWinIQ, this analysis shows that executive orders have had a disproportionate impact in terminating contracts with small disadvantaged businesses between January 20 and May 1 2025 due to executive order. The analysis shows cost-cutting and DEI-dismantling contract cancellations under the second Trump administration is affecting small disadvantaged businesses more compared to the proportion of contracts they have by value with the federal procurement. 
 
-**Read the full story [hyperlink]** 
+**Read the full story [hyperlink](https://rhyannon-cuny.github.io/datastorySDBs/)** 
 
 ---
 
